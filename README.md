@@ -12,6 +12,7 @@
 + [Evidencias](#evidencias)
 + [Código](#código)
 + [Conclusiones](#conclusiones)
++ [Contacto](#contacto)
 ***
 ## Objetivo
 > Desarrollar una comunicación entre java y arduino, en el cual atraves de una interfaz en java se puede realizar la comunicación con 
@@ -909,4 +910,9 @@ MESS();                             //Se realiza esta llamada al método MESS da
 > resolver eso se metio todo dentro de un if con Serial.available() > 0 el cual solo entra si lo que se encuentra son datos que se pueda
 > leer, de esta manera se resolvio en parte, aunque en ocasiones se mandaba símbolos raros al LCD, lo cuál era ruido electrico y para mitigar
 > ese ruido se colocaron capacitores de ceramica y electroliticos para eliminar esos posibles ruidos.
+***
+## Contacto
+
+> Correo: pac_blackblazer@hotmail.com
+
 ***
