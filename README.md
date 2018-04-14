@@ -43,10 +43,25 @@
 * Entorno de desarrollo para JAVA, en este caso se uso Netbeans
 ***
 ## Diagrama
-
+![Diagramalcd](Diagramalcd.JPG)
 ***
 ## Evidencias
-
+![pic1](pic1.jpg)
+![pic2](pic2.jpg)
+![pic3](pic3.jpg)
+![pic4](pic4.jpg)
+![pic5](pic5.jpg)
+![pic6](pic6.jpg)
+![pic7](pic7.jpg)
+![pic8](pic8.jpg)
+![pic9](pic9.jpg)
+![pic10](pic10.jpg)
+![pic11](pic11.jpg)
+![pic12](pic12.jpg)
+![pic13](pic13.jpg)
+![pic14](pic14.jpg)
+![pic15](pic15.jpg)
+![pic16](pic16.jpg)
 ***
 ## Código
 > Código Java
