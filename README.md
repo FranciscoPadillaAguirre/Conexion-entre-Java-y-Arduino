@@ -46,6 +46,11 @@
 ![Diagramalcd](Diagramalcd.JPG)
 ***
 ## Evidencias
+![p1](p1.png)
+![p2](p2.png)
+![p3](p3.png)
+![p4](p4.png)
+![p5](p5.png)
 ![pic1](pic1.jpg)
 ![pic2](pic2.jpg)
 ![pic3](pic3.jpg)
